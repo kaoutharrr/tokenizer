@@ -21,14 +21,7 @@
 9. Record the contract address and transaction hash.
 10. Verify the contract source on Sepolia Etherscan.
 
-## Deployed contract
 
-- Network: Ethereum Sepolia
-- Chain ID: 11155111
-- Contract address: [Add after deployment]
-- Transaction hash: [Add after deployment]
-- Compiler version: [Record exact version]
-- Optimizer settings: [Record actual settings]
 
 ## Verification
 
