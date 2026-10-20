@@ -22,7 +22,6 @@
 10. Verify the contract source on Sepolia Etherscan.
 
 
-
 ## Verification
 
 Verify the contract using the same source code, dependency version, compiler version and optimization settings used during deployment.

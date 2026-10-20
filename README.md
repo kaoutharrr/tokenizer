@@ -30,11 +30,6 @@ OpenZeppelin provides an established ERC-20 implementation, allowing us to reuse
 
 ## Deployment
 
-- **Network:** Ethereum Sepolia
-- **Chain ID:** 11155111
-- **Contract address:** [Add actual deployed address]
-- **Explorer:** [Add actual Sepolia Etherscan URL]
-
 See `deployment/README.md` for deployment instructions.
 
 ## Repository structure
@@ -50,7 +45,3 @@ The token supports standard ERC-20 operations, including checking balances, tran
 ## Security
 
 Kaou42 uses a fixed initial supply. No public minting function or privileged administrative transfer function is exposed by the token contract.
-
-## Testing
-
-See `documentation/testing.md` for the test procedure and expected results.
